@@ -1,0 +1,25 @@
+import java.util.*;
+import java.io.*;
+
+class Smallestsubstring
+{
+		String str,substr1,substr2,Length of the String;
+    int 1<=|S|<=10^5;
+		{
+			str=abcd;
+			substr1=abcda;
+			substr2=abcdb;
+      Length of the String=S;
+		}
+		System.out.println("Length of smallest substring:",substr1);
+	}
+  public class substring
+  {
+  public static void main(String args[])
+  {
+  substr1 S= new substr1();
+  substr2 R= new substr2();
+  S.println();
+  R.println();
+}
+}
